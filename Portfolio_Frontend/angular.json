@@ -22,11 +22,11 @@
               "src/favicon.ico",
               "src/assets"
             ],
-            "styles": ["Portfolio_Frontend/node_modules/bootstrap/dist/css\bootstrap.css",
+            "styles": ["node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.css"
             ],
             "scripts": [
-              "Portfolio_Frontend/node_modules/bootstrap/dist/js/bootstrap.js"
+              "node_modules/bootstrap/dist/js/bootstrap.js"
             ]
           },
           "configurations": {
